@@ -1,7 +1,7 @@
 title: Memory app
-description: Memory is a desktop app which lets you instantly search through your web apps and browser history
-sitename: Your Website
-baseurl: '/one-page-wonder-jekyll'
+description: Memory is a desktop app which lets you instantly search through your web apps like Jira, Google docs and your browser history
+sitename: Memory
+baseurl: ''
 sass:
   sass_dir: /assets/_sass
   style: :compressed
