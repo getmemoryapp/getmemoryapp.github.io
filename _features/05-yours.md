@@ -2,7 +2,7 @@
 id: yours
 name: Yours
 heading: A search index
-subheading: For you
+subheading: for you
 image: "/assets/images/search_db.png"
 ---
 You see where this is going?

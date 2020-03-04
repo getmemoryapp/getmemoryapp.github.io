@@ -2,11 +2,11 @@
 id: usage
 name: Usage
 heading: Instant search
-subheading: Through full text
+subheading: through full text
 image: "/assets/images/memory_sc.png"
 ---
 
-Ever find yourself staring at your computer struggling to find the right information ? Or typing recklessly hoping for your browser to autocomplete the right thing ? 
+Ever find yourself staring at your computer, struggling to find your documents ? Or typing recklessly hoping for your browser to autocomplete the right thing ?
 
 Memory is a desktop app that lets you do a search through all your web content instantly! Just press **⌘ M** on your Mac and start searching. 
 

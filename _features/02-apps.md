@@ -5,10 +5,10 @@ heading: Filter by App
 subheading: All your web apps
 image: "/assets/images/app_sc.png"
 ---
-You can filter your searches by webapp. For easy access this shows the most recent content for those webapps. 
+You can filter your searches by webapp. You can see content most recently opened for that webapp or search for specific content within that webapp.
 
-It works with all the popular apps like Google docs, Jira, Github and Figma.
+It works for all the popular apps like Google docs, Jira, Github and Figma.
 
-It works for your internal tools and it works for obscure webapps that only you use.
+It works for your internal tools and dashboards and it works for obscure webapps that only you use.
 
-It lets you search through any webapp that you have opened in your browser!
+Memory lets you search through any webapp that you have opened in your browser!
